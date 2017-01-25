@@ -27,7 +27,7 @@ public class Prjava01hernandez17 {
             bw.newLine();
             bw.write("      <title>"); 
             bw.newLine();
-            bw.write("         Nova pagina web de hernandez17"); 
+            bw.write("         Nova pàgina web de hernandez17"); 
             bw.newLine();
             bw.write("      </title>"); 
             bw.newLine();
@@ -35,7 +35,7 @@ public class Prjava01hernandez17 {
             bw.newLine();
             bw.write("  <body>"); 
             bw.newLine();
-            bw.write("         Nova pagina web de hernandez17"); 
+            bw.write("         DAW2 UF4 Pràctica 2"); 
             bw.newLine();
             bw.write("  </body>"); 
             bw.newLine();
@@ -44,5 +44,4 @@ public class Prjava01hernandez17 {
             bw.close();
         }
     }
-    
 }
